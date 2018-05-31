@@ -66,6 +66,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="scenegraph.cs" />
     <Compile Include="game.cs" />
     <Compile Include="mesh.cs" />
     <Compile Include="meshLoader.cs" />
